@@ -1,4 +1,4 @@
-# HEIC to JPEG Converter Script
+# HEIC to JPEG Converter
 
 ## Introduction
 
