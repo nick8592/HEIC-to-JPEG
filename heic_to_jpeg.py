@@ -17,7 +17,8 @@ def convert_to_jpg(input_file, output_file):
         print(f"Error converting {input_file} to {output_file}: {e}")
 
 def main():
-    folder_dir = "..." # Replace with your folder path
+    # Replace 'your_custom_folder_path' with the actual path to your folder containing HEIC files
+    folder_dir = 'your_custom_folder_path'
     script_directory = os.path.dirname(os.path.abspath(__file__))
     input_directory = os.path.join(script_directory, folder_dir)
 
